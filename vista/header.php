@@ -66,7 +66,7 @@
 <body>
     <nav>
         <ul>
-            <li><a href="http://localhost/frmk/register/" >Registre</a></li>
-            <li><a href="http://localhost/frmk/user/" >User</a></li>
+            <li><a href="http://localhost/framework_api_php/register_c/" >Registre</a></li>
+            <li><a href="http://localhost/framework_api_php/user/" >User</a></li>
         </ul>
     </nav>

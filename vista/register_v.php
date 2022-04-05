@@ -1,6 +1,6 @@
 <?php
     #formulari de registre
-    echo '<form action="register_v.php" method="post">';
+    echo '<form action="/framework_api_php/user/register" method="post">';
     echo '<h3>Registre</h3>';
     echo '<label for="username">Username:</label>';
     echo '<input type="text" name="username" id="username" required>';
